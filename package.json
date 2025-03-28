@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "main": "index.cjs",
-    "start": "node index.cjs",
+    "main": "src/index.cjs",
+    "start": "node src/index.cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
