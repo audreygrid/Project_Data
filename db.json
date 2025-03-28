@@ -1,0 +1,66 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "username": "ewhq",
+        "password": "qehqhq"
+      }
+    ],
+    "rants": [
+      {
+        "id": "life",
+        "things": [
+          {
+            "username": "Jake the Dog",
+            "date": "2010-02-01",
+            "rating": "2",
+            "content": "Today these two guys jumped my girlfriend and I when we were walking home in broad daylight! anyway they were pretty easy to fend off, you could tell they had no idea how to fight. A swift kick to the neck and BAM, down. only one guy gave me trouble but he had a knife. idiot couldnt even swing well with!😂"
+          }
+        ]
+      },
+      {
+        "id": "school",
+        "things": [
+          {
+            "username": "Ike",
+            "date": "2010-03-02",
+            "rating": "1",
+            "content": "What is the purpose of homework? What is the purpose of life? are we all just meant to suffer? life is just suffering 😔. Normal people don't realise this. Life is meaningless and happiness doesnt exist. i'm 14 and this is so deep."
+          }
+        ]
+      },
+      {
+        "id": "work",
+        "things": [
+          {
+            "username": "Dan the man",
+            "date": "2010-02-01",
+            "rating": "1",
+            "content": "istg hard work just gets you more damn work! ive been trying to get a raise for 2 years now but nothing🤬! F🤬ing Moss-hair Moses just waltz in one day and gets the spot ive been asking for because he's the boss's cousin?!"
+          },
+          {
+            "username": "Dorothy",
+            "date": "2024-02-01",
+            "rating": "5",
+            "content": "I don’t think this would surprise anyone, but PowerBalance—manufacturers of plastic wristbands with hologram stickers—have admitted that there’s “no credible scientific evidence that supports [their] claims and therefore [they] engaged in misleading conduct.” Here’s what they had to say."
+          },
+          {
+            "username": "Michael",
+            "date": "2000-02-03",
+            "rating": "1",
+            "content": " Why the F*ck Is the 1 On the iPhone’s Calendar Off Center? This is freaking me out today. You see, I hardly look at my calendar date on the iPhone. But today I did. I looked at that pixel-perfect screen and this problem instantly caught my eye, like a white hot scalpel pinching through my retina until it reached the back of my skull."
+          },
+          {
+            "username": "isaac",
+            "date": "2011-01-02",
+            "rating": "1",
+            "content": "Facebook wants to be your life. It want you to chat, exchange messages and publish your photos using its services. That’s ok. It’s a good concept. It’s just too bad Facebook technology sucks to the point of being unusable at times."
+          }
+        ]
+      },
+      {
+        "id": "relationship",
+        "things": []
+      }
+    ]
+  }
