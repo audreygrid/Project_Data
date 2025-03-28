@@ -2,7 +2,7 @@
   "name": "project_data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.cjs",
   "scripts": {
     "main": "src/index.cjs",
     "start": "node src/index.cjs",
